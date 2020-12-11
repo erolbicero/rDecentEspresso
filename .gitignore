@@ -47,3 +47,4 @@ po/*~
 # custom files
 sandbox.R
 py_from_decent_diaspora.py 
+README.Rmd
